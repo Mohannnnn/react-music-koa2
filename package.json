@@ -1,0 +1,32 @@
+{
+  "name": "vue2-elm-koa2",
+  "version": "1.0.0",
+  "description": "Koa2搭建饿了么后端服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js",
+    "dev": "NODE_ENV=develpment nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohannnnn/vue2-elm-koa2.git"
+  },
+  "keywords": [
+    "koa2"
+  ],
+  "author": "Mohannnnn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohannnnn/vue2-elm-koa2/issues"
+  },
+  "homepage": "https://github.com/Mohannnnn/vue2-elm-koa2#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "http-proxy-middleware": "^0.19.0",
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  }
+}

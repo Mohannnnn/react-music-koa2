@@ -1,6 +1,6 @@
 ### react-music-koa2后端系统
 
-> 在线地址:[https://music.wuhann.cn/#/home](https://music.wuhann.cn/#/home)
+> 在线地址:[http://music.wuhann.cn/#/home](http://music.wuhann.cn/#/home)
 
 > 后端github地址:[https://github.com/Mohannnnn/react-music-koa2](https://github.com/Mohannnnn/react-music-koa2)
 

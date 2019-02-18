@@ -1,4 +1,5 @@
 node_modules
+/dist/.svn
 .idea
 .vscode
 .DS_Store
